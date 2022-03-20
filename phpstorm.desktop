@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version=1.0
+Name=PhpStorm
+Type=Application
+Icon=/home/vsko/Apps/PhpStorm-213.7172.28/bin/phpstorm.png
+Exec=/home/vsko/Apps/PhpStorm-213.7172.28/bin/phpstorm.sh
+
