@@ -1,0 +1,6 @@
+set autoindent
+set tabsize 2
+set tabstospaces
+#set linenumbers
+#set backup
+#set backupdir "~/.cache/nano/backup"
