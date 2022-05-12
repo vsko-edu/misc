@@ -1,0 +1,6 @@
+Host server
+    HostName ip
+    Port 22
+    User user
+    IdentityFile ~/.ssh/id_rsa
+    AddKeysToAgent yes
